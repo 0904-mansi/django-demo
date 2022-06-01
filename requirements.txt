@@ -70,7 +70,6 @@ six==1.12.0
 sqlparse==0.4.2
 terminado==0.8.2
 testpath==0.4.2
-tkhtmlview==0.1.0.post1
 tkVideo==0.1
 tornado==6.0.2
 tqdm==4.32.1
